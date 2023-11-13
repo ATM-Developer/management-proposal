@@ -18,6 +18,7 @@ Management Contract Method Invocation Description：
   For example, calling the setMinter method of a LUCA contract，
       _targetAddr：The contract object to invoke
       _data：The call data for the contract to be executed
+  
   <img width="683" alt="image" src="https://github.com/ATM-Developer/management-proposal/assets/51522215/4cf51f4c-bedd-472d-bd68-32a273ad6bab">
 
 4.updateProxyAdminPropose 
