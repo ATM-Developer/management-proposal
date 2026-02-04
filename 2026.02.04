@@ -1,0 +1,12 @@
+# Voting Instructions for Management Contract Proposals
+
+**①②③④⑤⑥**：Represents the call method number in README.
+
+## BNB Smart Chain Mainnet
+
+management contract：https://bscscan.com/address/0x2E9382A37bf3e77A54BA71C7419c928518703A1E#readContract|
+
+|contract name|contract address|Proposal ID|Proposal operation|invoke methods|data call|
+| --- | --- | --- |--- | --- | --- |
+| Trader | 0x7b749e4d4C23556a772Aca4E00E283BEFd575b9B |    |**⑤**Upgrade Contract|upgrad|   0x9FC39334351d2Be91d6182482250fc5b357fCDDD  |
+ 
